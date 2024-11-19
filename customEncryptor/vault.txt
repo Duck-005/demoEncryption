@@ -1,0 +1,12 @@
+Clear Text : hello there
+Cypher Text : ƠƔưưƼ ǐƠƔǈƔ
+
+Clear Text : I have no idea what I'm doing
+Cypher Text : Ĥ ƠƄǘƔ ƸƼ ƤƐƔƄ ǜƠƄǐ Ĥ'ƴ ƐƼƤƸƜ
+
+Clear Text : keep the key small or errors occur
+Cypher Text : ƬƔƔǀ ǐƠƔ ƬƔǤ ǌƴƄưư Ƽǈ ƔǈǈƼǈǌ Ƽƌƌǔǈ
+
+Clear Text : Unicode is way more complex than I thought.
+Cypher Text : ŔƸƤƌƼƐƔ Ƥǌ ǜƄǤ ƴƼǈƔ ƌƼƴǀưƔǠ ǐƠƄƸ Ĥ ǐƠƼǔƜƠǐ.
+
