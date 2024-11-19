@@ -21,8 +21,8 @@ public class customDecryptor {
         BufferedReader vaultReader;
         FileWriter fileWriter;
         try {
-            fileWriter = new FileWriter("dump.txt", true);
-            vaultReader = new BufferedReader(new FileReader("vault.txt"));
+            fileWriter = new FileWriter("shrekEnglish.txt", true);
+            vaultReader = new BufferedReader(new FileReader("shrekGibberish.txt"));
             String line = vaultReader.readLine();
             while(line != null){
                 fileWriter.write(shiftDecrypt(line, key) + "\n");
